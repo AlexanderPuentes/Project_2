@@ -7,3 +7,5 @@ tip = bill*tip
 total = bill + tip
 
 puts "The total is $#{sprintf "%.2f", total}"
+Hello Alex
+Hello Alex
